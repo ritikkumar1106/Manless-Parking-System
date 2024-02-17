@@ -8,8 +8,6 @@ Manless Parking System (Console-based) is a C++ project designed to simulate an 
 
 **3. Simple User Interface:** Console-based interface for users to interact with the parking system.
 
-# Demo
-Check out the live demo 
 
 # Getting Started
 These instructions will help you set up and run the Console-based Manless Parking System on your local machine.
